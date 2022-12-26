@@ -1,0 +1,10 @@
+export const SET_SELECTED_ITEM = 'setSelectedItem';
+export const CLEAN_SELECTED_ITEM = 'cleanSelectedItem';
+export const SHOW_MODAL = 'showModal';
+export const HIDE_MODAL = 'hideModal';
+export const SET_EDIT_MODE = 'setEditMode';
+export const REMOVE_EDIT_MODE = 'removeEditMode';
+export const SHOW_TOAST = 'showToast';
+export const HIDE_TOAST = 'hideToast';
+export const TOAST_SUCCESS = 'toastSuccess';
+export const TOAST_ERROR = 'toastError';

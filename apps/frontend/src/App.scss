@@ -1,0 +1,20 @@
+.btn {
+  text-align: center;
+  padding: 1rem 0px 1rem 0px;
+  width: 20rem;
+
+  &.loginBtn {
+    background-color: green;
+    color: white;
+  }
+}
+
+.input {
+  width: 20rem;
+  padding: 1rem 0.25rem 1rem 0.25rem;
+  font-size: 1.25rem;
+}
+
+.spaceTop {
+  margin-top: 1rem !important;
+}

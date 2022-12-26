@@ -1,0 +1,17 @@
+.rootDashboard {
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.fab {
+  position: fixed !important;
+  bottom: 1rem;
+  right: 1rem;
+}
+
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
